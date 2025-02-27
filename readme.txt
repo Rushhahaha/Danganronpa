@@ -1,1 +1,1 @@
-这是一个由澳门科技大学四位大三学生在软件项目管理课上制作的项目
+This is a project produced by four third-year students from Macau University of Science and Technology in the software project management class
