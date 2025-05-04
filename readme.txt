@@ -1,1 +1,1 @@
-This is a project produced by four third-year students from Macau University of Science and Technology in the software project management class
+The display of the loading page and the character illustration display have been updated
